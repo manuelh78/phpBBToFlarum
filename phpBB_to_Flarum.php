@@ -1,6 +1,6 @@
 <?php
 // Original script by robrotheram from discuss.flarum.org
-// Modified vy manuelh78dev
+// Modified by manuelh78dev
 // Modified by VIRUXE
 // Modified by Reflic
 // Modified by TidbitSoftware
